@@ -1,5 +1,5 @@
 # COMP2100
-just some revision for comp2100 (2025) - all of this ai generated
+**just some revision for comp2100 (2025) - all of this ai generated**
 
 # COMP2100 Systems Programming - Complete Revision Guide
 ## Macquarie University Final Exam Preparation
